@@ -20,7 +20,6 @@ hr {
 
 
 .container {
-    height: 60vh;
     width: 80vw;
     height: 30vh;
     display: flex;
@@ -90,6 +89,7 @@ h1 {
 
 .stat {
     text-align: center;
+    margin: 20px;
 }
 
 .stat h2 {
