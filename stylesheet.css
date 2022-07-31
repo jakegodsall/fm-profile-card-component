@@ -113,7 +113,30 @@ hr {
 
     .container {
         max-width: 400px;
-        height: 35vh;
+        height: 400px;
+        overflow: hidden;
+    }
+
+    .card-background {
+        height: 150px;
+    }
+
+    img {
+        width: 30%;
+        position: relative;
+        top: 60px;
+    }
+
+    .text-container {
+        height: 100%;
+    }
+
+    .personal-info {
+        margin-top: 55px;
+    }
+
+    .stat-bar {
+        margin-top: 20px;
     }
 }
 
