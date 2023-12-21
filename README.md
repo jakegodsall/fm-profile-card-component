@@ -1,70 +1,55 @@
-# Frontend Mentor - Profile card component solution
+# Profile Card Component (Frontend Mentor)
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+This repository contains my solution for the [Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub) on Frontend Mentor. The live version of the project can be viewed [here]().
 
 ## Overview
 
 ### The challenge
 
-- Build out the project to the designs provided
+This challenge is a simple unresponsive component used to practice CSS layout.
 
 ### Screenshot
 
-Here is the mobile version of the component.
+The final compoent can be seen below:
 
-<img src="first-mobile.png" alt="mobile version" style="width: 250px">
-
-and the corresponding desktop version.
-
-<img src="first-desktop.png" alt="desktop version" style="width: 500px">
+<img src="./complete/final_image.png" alt="Desktop component" width="500px">
 
 ### Links
 
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+-   Live Site URL: [Netlify](https://jakegodsall-profile-card.netlify.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Mobile-first workflow
 
 ### What I learned
 
-1. That I need to use absolute height measurements for components, as different mobile screens have different heights. This was causing much of the content to be hidden because my relative units (vh) for container height weren't large enough.
-2. How to use background image properties, i.e. `background-position`, `background-size` for multiple background images.
-3. How to position an image over the interface between two containers using `position: relative`.
-
-
-### Continued development
-
-The CSS for this project in the end became a little unwieldy and so for the next project, I intend to try to use SASS. I shall continue to learn flexbox to get a more intuitive and natural ability for developing layouts. I intend to go through solutions given by others line for line because I do feel that my solution to this problem is very ameteur-like, and would like to start getting accustomed to best practices.
+1. How to use hover states for elements.
+2. How to use box shadow to give buttons a three-dimensional effect.
 
 ### Useful resources
 
-- [BrowserStack Responsive](https://www.browserstack.com/responsive) - I used this tool to view the component on an array of common screen sizes. This allowed me to catch a few problems with the way I was thinking about determining size.
+-   [120 Best CSS button hover effects (Warren Davies)](https://alvarotrigo.com/blog/best-css-button-hover-effects/) - There are tons of great ideas for creating beautiful hover states for buttons. I am going to go through this more thoroughly soon.
 
 ## Author
 
-- Website - [Jake Godsall](https://jakegodsall.com)
-- Frontend Mentor - [@jakegodsall](https://www.frontendmentor.io/profile/jakegodsall)
-- LinkedIn - [@godsalljake](https://www.linkedin.com/in/godsalljake/)
+-   Website - [Jake Godsall](https://jakegodsall.com)
+-   Frontend Mentor - [@jakegodsall](https://www.frontendmentor.io/profile/jakegodsall)
+-   LinkedIn - [@godsalljake](https://linkedin.com/in/godsalljake)
+
+### Notes
+
+This project was originally completed on 28th July 2022.
+
+This repository is part of a series of repositories that have recently been cleaned and updated as part of an overhaul of my GitHub profile. The purpose of this overhaul was to ensure that each repository reflects my current development standards and practices, and to provide a cleaner, more professional appearance.
+
+The project is updated as of 21st December 2023.
+
+## License
+
+This project is open source and available under the [MIT License](https://github.com/jakegodsall/fm-profile-card-component/blob/master/LICENSE).
