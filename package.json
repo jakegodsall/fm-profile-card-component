@@ -1,0 +1,12 @@
+{
+    "name": "fm-profile-card-component",
+    "version": "1.0.0",
+    "description": "This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+    "main": "src/index.js",
+    "scripts": {
+        "dev": "lite-server --baseDir='src/'"
+    },
+    "keywords": [],
+    "author": "Jake Godsall",
+    "license": "ISC"
+}
